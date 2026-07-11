@@ -1,0 +1,17 @@
+{
+  "name": "extends-pnpmlib",
+  "version": "0.1.0",
+  "description": "Personal TypeScript source package template.",
+  "type": "module",
+  "private": false,
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "22.18.6",
+    "typescript": "5.9.3"
+  }
+}
