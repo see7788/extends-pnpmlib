@@ -1,6 +1,6 @@
 # extends-pnpmlib
 
-个人 TypeScript 源码包模板。源码直接放入 `src` 并作为包内容使用，不要求预编译到 `dist`。
+`see7788/extends-pnpmlib` 是个人 TypeScript 源码包模板。源码直接放入 `src` 并作为包内容使用，不要求预编译到 `dist`。
 
 ```powershell
 pnpm install
